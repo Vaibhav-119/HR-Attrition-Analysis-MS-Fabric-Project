@@ -139,8 +139,7 @@ There are slicers for:
 
 ### Overview Screenshot
 
-![Overview Page](<img width="1551" height="911" alt="Screenshot 2026-09-24 233317" src="https://github.com/user-attachments/assets/8d50d7e9-f77d-4b84-bee9-c6dd745e093c" />
-)
+![Overview Page](https://github.com/Vaibhav-119/HR-Attrition-Analysis-MS-Fabric-Project/blob/main/Overview.png)
 
 ---
 
