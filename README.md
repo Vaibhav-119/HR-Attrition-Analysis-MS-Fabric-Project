@@ -189,8 +189,7 @@ Monthly income is sensitive employee information, so after publishing the report
 
 ### CLS Screenshot
 
-![Column Level Security](<img width="1528" height="864" alt="Screenshot 2026-09-24 225752" src="https://github.com/user-attachments/assets/32d30db9-8e58-463a-a83e-7b986a31c783" />
-)
+![Column Level Security](https://github.com/Vaibhav-119/HR-Attrition-Analysis-MS-Fabric-Project/blob/main/CLS.png)
 
 
 ---
