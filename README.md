@@ -160,8 +160,7 @@ This page makes it easier to move from the overall attrition number to specific 
 
 ### Deep Dive Screenshot
 
-![Deep Dive Page](<img width="1437" height="879" alt="Screenshot 2026-09-24 222542" src="https://github.com/user-attachments/assets/c7df85d0-23d4-40ed-9e58-6bfc91d794ae" />
-)
+![Deep Dive Page](https://github.com/Vaibhav-119/HR-Attrition-Analysis-MS-Fabric-Project/blob/main/Deep%20Dive.png)
 
 ---
 
